@@ -8,7 +8,6 @@ Om du vill vara lite snäll, Swisha gärna en slant :) 073 554 71 85
 Kontakta inte mig per telefon utan gör det helst via Discord Daky#6387  
 Jag kommer förmodligen ignorera ditt försök att nå mig på telefon  
 Vill du att jag hittar en tid åt dig så kan jag lösa det för en slant. Kontakt via discord  
-Tillhör du en trafikskola eller liknande så kan jag sälja en färdigpaketerad lösning med minimalt med pill. Supporteras i 6 månader från köp  
 
 ---
 
