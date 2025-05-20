@@ -10,6 +10,11 @@ Vill du att jag hittar en tid åt dig så kan jag lösa det för en slant. Konta
 
 ---
 
+##Senast testad
+Senast testad 2025-05-20
+
+---
+
 ## Bot.py - Helt automatisk provbokning
 Kort förklarat så kommer den logga in med BankID. Du kommer scanna QR koden i början och sen kör den på självständigt.  
 Den kommer att boka första bästa tid med alternativt "Betala senare"  
