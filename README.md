@@ -10,7 +10,7 @@ Vill du att jag hittar en tid åt dig så kan jag lösa det för en slant. Konta
 
 ---
 
-## Botv2.py - Helt automatisk provbokning
+## Bot.py - Helt automatisk provbokning
 Kort förklarat så kommer den logga in med BankID. Du kommer scanna QR koden i början och sen kör den på självständigt.  
 Den kommer att boka första bästa tid med alternativt "Betala senare"  
 Du kan avboka gratis om det är mer än 24 timmar till provtillfället så undvik att leta tider inom 24 timmar om du inte är helt hundra på att du kan vilken tid som helst på dagen.  
