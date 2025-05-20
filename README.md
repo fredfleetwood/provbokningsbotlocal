@@ -5,7 +5,7 @@ Ett skript som automatiskt söker efter förarprov och reserverar dem i 15 minut
 
 ## Donationer & Hjälp
 Om du vill vara lite snäll, Swisha gärna en slant :) 073 554 71 85  
-Ring eller smsa INTE utan hör av dig via Discord Daky#6387  
+Ring eller smsa INTE utan hör av dig via Discord Daky#6387 om du skulle behöva hjälp med något  
 Vill du att jag hittar en tid åt dig så kan jag lösa det för en slant. Kontakt via discord  
 
 ---
