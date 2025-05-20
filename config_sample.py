@@ -1,8 +1,7 @@
 ## Se README.md
 
-social_security = 'yyyymmddxxxx'
 license_type = 'B'
+dates = ['2025-05-01', '2025-07-31']
 exam = 'Körprov'
-rent_or_language = 'Manuell bil'
-dates = ['2021-08-26', '2021-12-20']
-locations = ['Järfälla', 'Farsta']
+rent_or_language = ['Manuell bil']
+locations = ['Farsta', 'Sollentuna']
